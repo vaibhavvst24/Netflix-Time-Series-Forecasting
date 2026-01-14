@@ -78,19 +78,3 @@ These metrics ensure that the predicted subscription values closely follow histo
 An interactive Streamlit dashboard allows users to:
 
 Select how many future quarters to forecast
-
-## 📌 Project Structure
-
-netflix-subscription-forecasting/
-│
-├── app.py
-├── arima_netflix_model.pkl
-├── netflix_subscriptions.csv
-├── requirements.txt
-└── README.md
-
-
-View predicted subscription values
-
-Visualize forecasts using interactive charts
-
