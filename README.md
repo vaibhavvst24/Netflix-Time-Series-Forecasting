@@ -78,3 +78,7 @@ These metrics ensure that the predicted subscription values closely follow histo
 An interactive Streamlit dashboard allows users to:
 
 Select how many future quarters to forecast
+
+# Stream lit Dashboard
+
+![Netflix Forecast Dashboard](images/dashboard.png)
