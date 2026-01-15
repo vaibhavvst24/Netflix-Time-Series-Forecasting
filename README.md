@@ -5,11 +5,15 @@ This project focuses on forecasting Netflix’s future subscription growth using
 
 The solution is implemented using an ARIMA (AutoRegressive Integrated Moving Average) model and deployed through an interactive Streamlit dashboard for easy visualization and exploration of future forecasts.
 
+---
+
 ## 🎯 Problem Statement
 
 Netflix relies on understanding future subscriber growth to make informed decisions about content investment, infrastructure scaling, and market expansion. However, raw historical data does not provide predictive insight into future trends.
 
 This project solves that problem by building a forecasting model that predicts Netflix’s subscription growth over upcoming quarters based on historical patterns.
+
+---
 
 ## 🧠 Solution Approach
 
@@ -27,6 +31,8 @@ Evaluate the model using error metrics
 
 Deploy the model through a Streamlit application
 
+---
+
 ## 📊 Dataset
 
 The dataset contains Netflix subscription data with the following columns:
@@ -36,6 +42,8 @@ Time Period (Date)
 Subscribers (in millions)
 
 The data is aggregated to a quarterly frequency for forecasting.
+
+---
 
 ## 🛠 Technologies Used
 
@@ -51,6 +59,8 @@ Streamlit
 
 Joblib
 
+---
+
 ## 📈 Model Used
 
 ARIMA (AutoRegressive Integrated Moving Average) was used for forecasting because it:
@@ -63,6 +73,8 @@ Models residual patterns using moving averages
 
 The model was trained on quarterly Netflix subscription data to predict future subscriber growth.
 
+---
+
 ## 📉 Model Evaluation
 
 The forecasting model was evaluated using:
@@ -72,6 +84,8 @@ RMSE (Root Mean Squared Error)
 MAE (Mean Absolute Error)
 
 These metrics ensure that the predicted subscription values closely follow historical trends.
+
+---
 
 ## 🖥 Application Interface
 
