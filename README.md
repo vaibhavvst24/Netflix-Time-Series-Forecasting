@@ -1,4 +1,8 @@
 # 📊 Netflix Subscription Forecasting using Time Series Analysis
+
+# Streamlit App
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Live_App-red)](https://netflix-time-series-forecasting-vrairjrcfm7ha5shpsztpz.streamlit.app/)
+
 ## 📌 Project Overview
 
 This project focuses on forecasting Netflix’s future subscription growth using historical time series data. By applying statistical and machine learning-based forecasting techniques, the project aims to provide business-ready insights that help anticipate user growth trends and support strategic decision-making.
